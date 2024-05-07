@@ -88,7 +88,7 @@ form.addEventListener('submit', (event) => {
     const name = document.getElementById('name')
     name.style.marginBottom = '1px'
     
-box.append(labelTecnology,br,inputTecnology,br1,timeExp,br2,inputTimeExp1,labelTimeExp1,inputTimeExp2,labelTimeExp2,inputTimeExp3,labelTimeExp3,br3,remove, button)
+box.append(labelTecnology,br,inputTecnology,br1,timeExp,br2,inputTimeExp1,labelTimeExp1,inputTimeExp2,labelTimeExp2,inputTimeExp3,labelTimeExp3,br3,remove)
     
     form.appendChild(box)
 
